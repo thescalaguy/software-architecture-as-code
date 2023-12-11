@@ -2,7 +2,7 @@
 
 ## About  
 
-This is the companion repository to my blog post on creating software architecture as code. Here you'll find the Structirizr DSL files for the notification delivery system that was discussed in the post.
+This is the companion repository to my blog post on creating software architecture as code. Here you'll find the Structurizr DSL files for the notification delivery system that was discussed in the post.
 
 ## Running the project
 
