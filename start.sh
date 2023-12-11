@@ -7,4 +7,4 @@ fi
 
 docker run --rm -it -p 8080:8080 \
  -e STRUCTURIZR_WORKSPACE_FILENAME=$1 \
- -v ~/Personal/notifications/design:/usr/local/structurizr structurizr/lite
+ -v $DIR/software-architecture-as-code/design:/usr/local/structurizr structurizr/lite
